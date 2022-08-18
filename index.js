@@ -1,4 +1,5 @@
 // Write your solution here!
+//the code on phase1
 let cats = ["Milo", "Otis", "Garfield"]
 
  let destructivelyAppendCat = function (name) {
